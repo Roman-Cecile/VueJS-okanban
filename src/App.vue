@@ -27,4 +27,19 @@
 #nav a.router-link-exact-active {
   color: #42b983;
 }
+
+.card {
+  min-height: 100px;
+  width: 100%;
+  margin: 8px -2px;
+  border: 2px solid rgb(167, 167, 255);
+  border-radius: 4px;
+}
+
+.container-cards {
+  width: 30%;
+  height: 100%;
+  margin: auto 4px;
+  min-height: 370px;
+}
 </style>
